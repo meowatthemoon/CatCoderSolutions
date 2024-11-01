@@ -4,4 +4,5 @@ Solutions to the coding problems in [Cat Coder](https://catcoder.codingcontest.o
 
  * Bowling ✓
  * Deletable Primes ✓
+ * Fibonacci ✓
  * Fractals ✓
