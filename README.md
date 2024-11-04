@@ -6,4 +6,4 @@ Solutions to the coding problems in [Cat Coder](https://catcoder.codingcontest.o
  * Deletable Primes ✓
  * Fibonacci ✓
  * Fractals ✓
- * Spy Mission 9/11
+ * Spy Mission 9/11 (Couldn't lower the loss further)
